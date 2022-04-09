@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+}
+p {
+    color:whitesmoke;
+}
+
+html {
+    height: 100%;
+    }
+    body {
+    background-image: linear-gradient(to bottom right, #33475b, #0033CC, #f9ffbf, rgb(239, 250, 85));
+    }
+
+img {
+     background-size: 90px;
+}
